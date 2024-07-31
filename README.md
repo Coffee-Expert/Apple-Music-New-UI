@@ -34,7 +34,8 @@ Welcome to the Apple Music Clone project! This project is a demonstration of bui
   <img src="https://github.com/Coffee-Expert/Apple-Music-New-UI/blob/main/Apple_music_demo/Screenshot_20240731-124011_Apple%20Music.png" alt="Screenshot 8" width="200" style="border: 5px solid #000;"/>
 </div>
 
-### Watch the Video Demo [Here!](https://github.com/Coffee-Expert/Apple-Music-New-UI/blob/main/Apple_music_demo/apple_music_demo.mp4)
+### Watch the Video Demo 
+https://github.com/user-attachments/assets/c7ae2408-9c72-4c8d-8968-841c192c8ba3
 
 
 ## Getting Started 
